@@ -1,0 +1,28 @@
+#nav {
+    border-color: black;
+}
+
+#alert {
+    margin-top: 10px;
+    margin-right: 20px;
+    margin-left: 20px;
+    margin-bottom: 0px;
+}
+
+#jumbotron1{
+	padding: 40px;
+}
+
+#jumbotron2 {
+
+	margin: 40px;
+	padding: 40px;
+	border-radius: 10px;
+	background-color: white;
+}
+
+#main{
+	background-image: url("../img/wallpaper.jpg");
+	vertical-align: center; 
+	vertical-align: center; 
+}
